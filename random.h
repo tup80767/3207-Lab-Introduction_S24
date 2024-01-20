@@ -1,6 +1,7 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef random_h
+#define random_h
 
 char randchar();
 
-#endif
+
+#endif 
